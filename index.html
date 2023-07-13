@@ -49,12 +49,12 @@
 		</div>
 		<p><a href="https://idolstarfes.com/index.html">ISF11</a>の参加サークル情報を集めています。<a href="https://docs.google.com/spreadsheets/d/17MWnfTb-FEre33_q05FBGo-LygxHvUvq0-JjOjTznPg/edit?usp=sharing">集計シート</a>に書き込んでくれると嬉しいです。連絡は<a href="https://twitter.com/tankaru">たんかるP</a>までどうぞ。</p>
 		<form onsubmit="buttonTextFilter(); return false;">
-			<input type="text" id="filter_text">
-			<button onclick="buttonTextFilter();">絞り込み</button>
+			<input type="text" id="filter_text" value="小説">
+			<button onclick="buttonTextFilter();">検索</button>
 		</form>
 		<div id="circles"></div>
 		</div>
-		<button id="add_button" onclick="buttonAddClicked()">追加表示</button>
+		<!-- <button id="add_button" onclick="buttonAddClicked()">追加表示</button>-->
 	</div>
 
 	<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>

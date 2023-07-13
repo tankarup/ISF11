@@ -369,7 +369,7 @@ function readData(){
 
 		circles.push(circle);
 
-		filteredCircles = circles.slice(0,count);
+		//filteredCircles = circles.slice(0,count);
 	}
 }
 function styleDisplay(v){
@@ -442,7 +442,8 @@ function buttonTextFilter(){
 	refreshHtml();
 }
 readData();
-refreshHtml();
+//refreshHtml();
+buttonTextFilter();
 /*
 const app = Vue.createApp({
 	data() {
