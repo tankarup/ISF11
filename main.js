@@ -21,7 +21,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 20	アメキャン	電柱	永吉昴		https://twitter.com/DenchuSugeee	https://twitter.com/DenchuSugeee/status/1678322838225424384		イラスト	イラスト集		DenchuSugeee
 21	ありす７	Re	所恵美	http://aliceseven.web.fc2.com/	https://twitter.com/alice7_re						alice7_re
 22	アルピス堂	ぴすた	七尾百合子		https://twitter.com/arupi025	https://twitter.com/arupi025/status/1672913474828263424	https://twitter.com/arupi025/status/1663177043021025283		昴百合子合同		arupi025
-23	AllegroHeart	屋久潮	真壁瑞希		https://twitter.com/yakushio						yakushio
+23	AllegroHeart	屋久潮	真壁瑞希		https://twitter.com/yakushio	https://twitter.com/yakushio/status/1679116327590694913			朋花→瑞希→まつりの感情話		yakushio
 24	Arrow Moon	矢部	舞浜歩	https://www.pixiv.net/users/95662645	https://twitter.com/yabe__P	https://twitter.com/yabe__P/status/1672920699349135361		マンガ？	歩中心のギャグ本とあゆまこと色んな子達でグッズを作成予定		yabe__P
 25	イカロノハシ	とg	矢吹可奈		https://twitter.com/toggp	https://twitter.com/toggp/status/1673378921935667200			志保奈緒可奈杏奈		toggp
 26	いけこかおす	池小	松田亜利沙		https://twitter.com/ikekokaosu						ikekokaosu
@@ -37,8 +37,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 35	∞Material	∠はやてぃあ	周防桃子	https://inmate-official.sakura.ne.jp/	https://twitter.com/Hayate_Eustia	https://twitter.com/Hayate_Eustia/status/1674419418242363392		マンガ？	桃子大喜利、箱崎星梨花の凄いです！大喜利		Hayate_Eustia
 36	[improvise]	高梁れん	白石紬		https://twitter.com/ren_improvise			イラスト			ren_improvise
 37	Wings of Notes	杉浦光太郎	豊川風花	https://www.pixiv.net/users/69597891	https://twitter.com/bunkerbuster765	https://twitter.com/bunkerbuster765/status/1678032240977264640		イラスト	エターナルハーモニー		bunkerbuster765
-38	Winter Triangle	あんこ	馬場このみ	https://www.pixiv.net/users/5108424	https://twitter.com/Anko_FORi	https://twitter.com/Anko_FORi/status/1673635631711535107		小説	"馬場このみ短編小説集
-dear...からit's meまで。ソロ曲についての物語。"		Anko_FORi
+38	Winter Triangle	あんこ	馬場このみ	https://www.pixiv.net/users/5108424	https://twitter.com/Anko_FORi	https://twitter.com/Anko_FORi/status/1673635631711535107		小説	馬場このみ短編小説集：dear...からit's meまで。ソロ曲についての物語。		Anko_FORi
 39	wane_moon	夏月翔	望月杏奈								
 40	うかれぽんち	もつ	二階堂千鶴		https://twitter.com/mo225mi						mo225mi
 41	うさぎごや	イナバ	高山紗代子		https://twitter.com/INABA_178P						INABA_178P
@@ -112,7 +111,7 @@ dear...からit's meまで。ソロ曲についての物語。"		Anko_FORi
 108	SUN MAK	Jink	春日未来	https://www.pixiv.net/users/2573095	https://twitter.com/Jink_SUN_MAK	https://twitter.com/Jink_SUN_MAK/status/1678006652757483522?s=20		小説	未来静香		Jink_SUN_MAK
 109	サンライズ麦茶	藤原りおん	矢吹可奈	https://www.pixiv.net/users/39238	https://twitter.com/fujirio						fujirio
 110	ＣＮ遺伝子	多田八	如月千早	https://cn-idenshi.booth.pm/	https://twitter.com/TaiTsuTTsu	https://twitter.com/TaiTsuTTsu/status/1678001950502305792		小説？	如月千早MRライブ　メタフィクショナルレポート		TaiTsuTTsu
-111	seaたいがー	おおうみ	矢吹可奈		https://twitter.com/0umi_tiger				ガチ部屋着・パジャマ合同		0umi_tiger
+111	seaたいがー	おおうみ	矢吹可奈		https://twitter.com/0umi_tiger		https://twitter.com/0umi_tiger/status/1680982381011030021	イラスト？	ガチ部屋着・パジャマ合同		0umi_tiger
 112	ciel bleu nero	高橋 周防	所恵美		https://twitter.com/suouJUVE17	https://twitter.com/suouJUVE17/status/1674408532035403777		マンガ	恵美が巻き込まれるギャグマンガ		suouJUVE17
 113	シオマネキ	うみのに	徳川まつり	https://www.pixiv.net/users/53520397	https://twitter.com/ztinok2	https://twitter.com/ztinok2/status/1678006872706805760		イラスト	まつり姫＆桃子先輩イラスト本	初同人誌	ztinok2
 114	自動ドアに二度ぶつかる	きりたに	白石紬	https://twitter.com/Nebel_Tal	https://twitter.com/Nebel_Tal	https://twitter.com/Nebel_Tal/status/1673291636456189954?s=20		小説			Nebel_Tal
@@ -137,21 +136,21 @@ dear...からit's meまで。ソロ曲についての物語。"		Anko_FORi
 133	すわこのほとり	駒草	馬場このみ		https://twitter.com/komakusakk						komakusakk
 134	節分草紙	山野	徳川まつり		https://twitter.com/yam_an0	https://twitter.com/yam_an0/status/1671505574767497219		小説	オペラセリア小説本		yam_an0
 135	7th Rank Rook	ササナカ	天空橋朋花	https://www.pixiv.net/users/170555/novels	https://twitter.com/S2_SASANAKA						S2_SASANAKA
-136	創騒都市	川下欅	永吉昴	https://www.pixiv.net/users/6485371	https://twitter.com/keyaki_imas						keyaki_imas
+136	創騒都市	川下欅	永吉昴	https://www.pixiv.net/users/6485371	https://twitter.com/keyaki_imas	https://twitter.com/keyaki_imas/status/1679502008192204802		小説	フェス限の昴と亜利沙をイメージに、昴が『パーフェクトゲーム』に挑む話		keyaki_imas
 137	ソクシコンボ	t3	春日未来	https://sokushicombo.booth.pm/	https://twitter.com/t3_	https://twitter.com/t3_/status/1674649549498122240		マンガ、グッズ			t3_
 138	そなちねあらむにゅえ	mikoma	天空橋朋花	https://www.youtube.com/channel/UCPaMnwJ7idB0Kb2OCLVCbLA	https://twitter.com/mikomazic	https://twitter.com/mikomazic/status/1673662763183292416		CD	天空橋朋花曲のピアノアレンジCD		mikomazic
 139	ソラバコ	ぱいき	北上麗花	https://www.pixiv.net/users/2107243	https://twitter.com/paiki0517	https://twitter.com/paiki0517/status/1674782636257181696?s=20		イラスト	楽曲モチーフイラスト本		paiki0517
 140	第10140倉庫	佐倉	横山奈緒		https://twitter.com/skrmyg	https://twitter.com/skrmyg/status/1672966569591476225			奈緒と響の本		skrmyg
 141	大怪獣はお好きですか	挽き肉の丘	北上麗花		https://twitter.com/hikinikunooka	https://twitter.com/hikinikunooka/status/1674742222749859844			ミリタリー系なもの		hikinikunooka
 142	第七六五劇場空挺旅団	とっしー	木下ひなた		https://twitter.com/765kuteiryodan	https://twitter.com/765kuteiryodan/status/1670082178141818880		小説	木下ひなたがセンターに立つ意味やセンターで歌い踊る事について考えるSS		765kuteiryodan
-143	たかひろの家	たかひろ	天空橋朋花		https://twitter.com/taka_cv	https://twitter.com/taka_cv/status/1674658991702683649		マンガ	聖母とギャル、ギャルシタ合同		taka_cv
+143	たかひろの家	たかひろ	天空橋朋花		https://twitter.com/taka_cv	https://twitter.com/taka_cv/status/1674658991702683649	https://twitter.com/taka_cv/status/1681636006704074754	マンガ	聖母とギャル、ギャルシタ合同		taka_cv
 144	高床式倉庫	よね	春日未来		https://twitter.com/Yonenoetoka	https://twitter.com/Yonenoetoka/status/1670735332470591488			いちぽむ本と、未来静香まとめ本		Yonenoetoka
-145	たこしゃけ研究所	えに、しゃけ	永吉昴		https://twitter.com/ktmtry	https://twitter.com/ss_mili00/status/1674371251664752641			ファンタジーパロ妄想合同誌		ktmtry
+145	たこしゃけ研究所	えに、しゃけ	永吉昴		https://twitter.com/ktmtry	https://twitter.com/ss_mili00/status/1674371251664752641	https://twitter.com/ktmtry/status/1698327080885514746		ファンタジーパロ妄想合同誌	マイユニ（可憐、雪歩、昴、千早）オリジナル衣装本	ktmtry
 146	黄昏街道	いぶき	高山紗代子	http://www.pixiv.net/users/4271739	https://twitter.com/breath_1buki						breath_1buki
 147	黄昏のうさぎ	れぐん	望月杏奈		https://twitter.com/regun95	https://twitter.com/regun95/status/1674361218340110336?s=20		マンガ	4コマ		regun95
 148	狸犬	タヌキーヌ	周防桃子	http://www.pixiv.net/users/83909512	https://twitter.com/tanukiinu005	https://twitter.com/tanukiinu005/status/1671859059354652672		イラスト		初参加	tanukiinu005
 149	たまがわ工房	珠川	所恵美		https://twitter.com/inarihouju	https://twitter.com/inarihouju/status/1678027352486612992		ぬい服	オリジナルデザインのぬい服		inarihouju
-150	たまてばこ	tamaki	徳川まつり	https://www.pixiv.net/users/490223/novels	https://twitter.com/tamaki_okia	https://twitter.com/tamaki_okia/status/1674413021731635200		小説	徳川まつりの妹のおはなし		tamaki_okia
+150	たまてばこ	tamaki	徳川まつり	https://www.pixiv.net/users/490223/novels	https://twitter.com/tamaki_okia	https://twitter.com/tamaki_okia/status/1674413021731635200	https://twitter.com/tamaki_okia/status/1692127715028246875	小説	徳川まつりの妹のおはなし	まつりの妹・ｉとモブ同級生・ｎのまつりと徳川まつり情報アカウントをめぐるお話	tamaki_okia
 151	ため池	魚	所恵美								
 152	タルタルモルモット	めるくま	高坂海美	https://www.pixiv.net/users/64339739	https://twitter.com/well_witchA	https://twitter.com/well_witchA/status/1670726180092399617			「ミリオン×夏」合同		well_witchA
 153	超路地裏合衆国	ミナカミリン	所恵美		https://twitter.com/minakamiyoshi	https://twitter.com/minakamiyoshi/status/1677195422643933185?s=20		R-18	所恵美R-18本		minakamiyoshi
@@ -162,7 +161,7 @@ dear...からit's meまで。ソロ曲についての物語。"		Anko_FORi
 158	つむぎうた	こり	周防桃子	https://spinsongs.booth.pm/	https://twitter.com/spinsongs						spinsongs
 159	deals 3 damage	潟野藤和	最上静香	http://www.pixiv.net/users/25869541	https://twitter.com/Marsh_Flats	https://twitter.com/Marsh_Flats/status/1678020639763083265		ルポ	静香香川ロケルポ本		Marsh_Flats
 160	てきとう真人間	旧作	望月杏奈		https://twitter.com/misorineko						misorineko
-161	Desperate blue	青山零二	最上静香	https://www.pixiv.net/users/15973703	https://twitter.com/Bluray_Blade	https://twitter.com/Bluray_Blade/status/1668599582014701568			男体化女装レズ、志保静香		Bluray_Blade
+161	Desperate blue	青山零二	最上静香	https://www.pixiv.net/users/15973703	https://twitter.com/Bluray_Blade	https://twitter.com/Bluray_Blade/status/1668599582014701568	https://twitter.com/Bluray_Blade/status/1690714637870981121		男体化女装レズ、志保静香		Bluray_Blade
 162	テリー生存ルート	テリー・ロケッティア	野々原茜		https://twitter.com/terryhumanoid	https://twitter.com/Terryhumanoid/status/1674415825472851971					terryhumanoid
 163	2 cats on the fish	ゆかか	菊地真	https://2catsonthefish.booth.pm/	https://twitter.com/yyyyk_min	https://twitter.com/yyyyk_min/status/1673351460875292674		ドール	真伊織ドール衣装写真集		yyyyk_min
 164	桃京武戯夜	タカ	箱崎星梨花	https://www.pixiv.net/users/9122	https://twitter.com/takapiyo						takapiyo
@@ -247,9 +246,9 @@ dear...からit's meまで。ソロ曲についての物語。"		Anko_FORi
 243	萌え萌えフェスティバル	おだゆー	真壁瑞希	https://www.pixiv.net/users/160026	https://twitter.com/mio0	https://twitter.com/mio0/status/1678032537187397634		マンガ	こげぱんパロディ漫画		mio0
 244	moglin cafe	もぐや	如月千早	https://moglincafe.booth.pm/	https://twitter.com/mogujoytoy						mogujoytoy
 245	もずの巣	百舌	福田のり子		https://twitter.com/mo_z_19	https://twitter.com/mo_z_19/status/1673353115633061891			のり子奈緒の本	初参加	mo_z_19
-246	元ソ廃研究所	ガースー	北沢志保	https://theaterdays.net/gasu/	https://twitter.com/gasu_y						gasu_y
+246	元ソ廃研究所	ガースー	北沢志保	https://theaterdays.net/gasu/	https://twitter.com/gasu_y	https://twitter.com/gasu_y/status/1680952175294570496		評論？	イベランナーの生態とか昨年の周年イベントのアンケートのデータとか載せてみたりする予定	人生初の本	gasu_y
 247	もふもふシンドローム	もみじまんじう	如月千早	https://www.pixiv.net/users/10233391							
-248	YAKI-TAKO	蛸焼	永吉昴								
+248	YAKI-TAKO	蛸焼	永吉昴		https://twitter.com/takoyaki_oisiii	https://twitter.com/takoyaki_oisiii/status/1678014308914188288	https://twitter.com/takoyaki_oisiii/status/1698171991537385951	マンガ	アイドルヒーローズ		takoyaki_oisiii
 249	やきとりくろこげ	駒鳥	徳川まつり	https://www.pixiv.net/users/867845	https://twitter.com/kotori3848	https://twitter.com/kotori3848/status/1674741400808886273?s=20			トレジャーハンターの本		kotori3848
 250	ヤマダワークス	ヤマダ	三浦あずさ		https://twitter.com/yamada_works						yamada_works
 251	雪沈	ゆきし	野々原茜		https://twitter.com/yuki_si_nnhr	https://twitter.com/yuki_si_nnhr/status/1669694568756047873		R-18	成人向け野々原茜本		yuki_si_nnhr
@@ -265,7 +264,7 @@ dear...からit's meまで。ソロ曲についての物語。"		Anko_FORi
 261	りんごや	みい	木下ひなた	https://miov3vo.booth.pm/	https://twitter.com/miiov3vo	https://twitter.com/miiov3vo/status/1673853251995979777		イラスト	なおひなのイラスト本やグッズ		miiov3vo
 262	リントヴルム	てぃも	永吉昴		https://twitter.com/Timobooster						Timobooster
 263	Room-55	SplashAB	白石紬		https://twitter.com/Hj2Zp	https://twitter.com/Hj2Zp/status/1673367603086249984		イラスト	白石紬のカラー本		Hj2Zp
-264	RED TAIL CAT	ほんだある	木下ひなた		https://twitter.com/aruhonda	https://twitter.com/aruhonda/status/1673671794119565313			ひなたとたまきがかわいい本		aruhonda
+264	RED TAIL CAT	ほんだある	木下ひなた		https://twitter.com/aruhonda	https://twitter.com/aruhonda/status/1673671794119565313	https://twitter.com/aruhonda/status/1697907664205070447		ひなたとたまきがかわいい本		aruhonda
 265	レトロ・スタア'0359	meeeeeeco	周防桃子								
 266	レブチューン人生	Fr	三浦あずさ	https://fr-ee50.booth.pm/	https://twitter.com/fr_ee50						fr_ee50
 267	RoA	ゐとい	島原エレナ		https://twitter.com/roa10889	https://twitter.com/roa10889/status/1674900290326368256			ミリ女オールキャラギャグ本		roa10889
@@ -391,8 +390,8 @@ function refreshHtml(){
 				<td colspan="2">
 					<h2>
 						${circle.name} / ${circle.penname}
-						<a href="${circle.homepage}" style="${styleDisplay(circle.homepage)}">🏠</a>
-						<a href="${circle.twitter}" style="${styleDisplay(circle.twitter)}"><img style="height: 1em;" src="icons/twitter.png"></a>
+						<a href="${circle.homepage}" style="${styleDisplay(circle.homepage)}" target="_blank">🏠</a>
+						<a href="${circle.twitter}" style="${styleDisplay(circle.twitter)}" target="_blank"><img style="height: 1em;" src="icons/twitter.png"></a>
 					</h2>
 					<ul>
 						<li>メインアイドル：${circle.idol}</li>
