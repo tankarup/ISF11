@@ -9,7 +9,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 8	明日はあるさ。	にがり	田中琴葉		https://twitter.com/NIGARI_OTOUHU	https://twitter.com/NIGARI_OTOUHU/status/1674044237372096513		イラスト、グッズ	SD詰め合わせのイラスト本と前回頒布したスタエレ本にオマケ付けて増版した本		NIGARI_OTOUHU
 9	あしながプロデュース。	華鷺	春日未来	http://www.pixiv.net/users/4483180	https://twitter.com/hanasagillust	https://twitter.com/hanasagillust/status/1673326984871518209		マンガ	未来ちゃのマンガ本		hanasagillust
 10	アダックス東京工場	大旋風鬼オパオパ	四条貴音		https://twitter.com/ADAXtokyo						ADAXtokyo
-11	あっぷるみかん	夕月	高槻やよい		https://twitter.com/yuzuki360						yuzuki360
+11	あっぷるみかん	夕月	高槻やよい		https://twitter.com/yuzuki360	https://twitter.com/yuzuki360/status/1672606478480572418					yuzuki360
 12	あっぷるみかん	赤樹りんこ	周防桃子		https://twitter.com/Akagi_rinko	https://twitter.com/Akagi_rinko/status/1672596189861253121		イラスト、グッズ	桃子関係の本		Akagi_rinko
 13	アトラクト・ブルー	あんの	如月千早		https://twitter.com/anno_imas						anno_imas
 14	アトリエジャーニー	シマディ	桜守歌織		https://twitter.com/shimady24	https://twitter.com/shimady24/status/1673363487396089857		イラスト	歌織×紬		shimady24
@@ -32,13 +32,13 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 ◎グッズ"		ponpon_pon_cho
 31	イモの蒲焼	宇山イモ助	中谷育	https://www.pixiv.net/users/46983657	https://twitter.com/imosukeuyama						imosukeuyama
 32	因果応報パビリオン	あげマカロン	望月杏奈		https://twitter.com/agmk0456						agmk0456
-33	Insomnia	キムネズミ	北沢志保								
+33	Insomnia	キムネズミ	北沢志保		https://twitter.com/insomnia_1m	https://twitter.com/insomnia_1m/status/1678387738956152832		小説	オペラセリア　SS・漫画・イラスト本		insomnia_1m
 34	Interface-Tracking ENGINE	吉崎堅牢	七尾百合子	https://www.pixiv.net/users/10431865	https://twitter.com/yobitz	https://twitter.com/yobitz/status/1673700580144091136		小説	七尾百合子メインのSFコメディ		yobitz
 35	∞Material	∠はやてぃあ	周防桃子	https://inmate-official.sakura.ne.jp/	https://twitter.com/Hayate_Eustia	https://twitter.com/Hayate_Eustia/status/1674419418242363392		マンガ？	桃子大喜利、箱崎星梨花の凄いです！大喜利		Hayate_Eustia
 36	[improvise]	高梁れん	白石紬		https://twitter.com/ren_improvise			イラスト			ren_improvise
 37	Wings of Notes	杉浦光太郎	豊川風花	https://www.pixiv.net/users/69597891	https://twitter.com/bunkerbuster765	https://twitter.com/bunkerbuster765/status/1678032240977264640		イラスト	エターナルハーモニー		bunkerbuster765
 38	Winter Triangle	あんこ	馬場このみ	https://www.pixiv.net/users/5108424	https://twitter.com/Anko_FORi	https://twitter.com/Anko_FORi/status/1673635631711535107		小説	馬場このみ短編小説集：dear...からit's meまで。ソロ曲についての物語。		Anko_FORi
-39	wane_moon	夏月翔	望月杏奈								
+39	wane_moon	夏月翔	望月杏奈	https://www.pixiv.net/en/users/2241472	https://twitter.com/WaneMoon	https://twitter.com/WaneMoon/status/1674437552064036870		マンガ？	杏奈とロコの本		WaneMoon
 40	うかれぽんち	もつ	二階堂千鶴		https://twitter.com/mo225mi						mo225mi
 41	うさぎごや	イナバ	高山紗代子		https://twitter.com/INABA_178P						INABA_178P
 42	宇宙忍者の星	ばるたん	天空橋朋花	https://www.pixiv.net/users/25643205	https://twitter.com/mtkr0_barutan						mtkr0_barutan
@@ -124,7 +124,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 121	重力堂	ロックハート	真壁瑞希	https://www.pixiv.net/users/12239	https://twitter.com/lockheart4649	https://twitter.com/lockheart4649/status/1674746966629322752?s=20			アイドルに可愛いふりふりの服を着せる本。		lockheart4649
 122	春夏秋党	秋春	桜守歌織		https://twitter.com/Aut_Sp	https://twitter.com/Aut_Sp/status/1674709980208066565			歌織千早		Aut_Sp
 123	触手義弟	億劫太郎	中谷育	https://www.pixiv.net/users/35547443	https://twitter.com/okutanro						okutanro
-124	汁溜まり	六汁	豊川風花		https://twitter.com/rokusiru						rokusiru
+124	汁溜まり	六汁	豊川風花		https://twitter.com/rokusiru	https://twitter.com/rokusiru/status/1680892623182241792			バニー本		rokusiru
 125	しろくろでんじゃらす	しろこ	馬場このみ		https://twitter.com/shiroko79						shiroko79
 126	白飯並盛り	明	北上麗花		https://twitter.com/mei_2335	https://twitter.com/mei_2335/status/1672494100363485185					mei_2335
 127	深夜徘徊	まりあなさん	エミリー・スチュアート	https://www.pixiv.net/users/26471944	https://twitter.com/mariana_kmkz	https://twitter.com/mariana_kmkz/status/1678020655089065987		イラスト	誕生日絵		mariana_kmkz
@@ -132,7 +132,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 129	スーパーバーチャルかつじゃ娘	かつじゃ	矢吹可奈	http://www.pixiv.net/users/805881	https://twitter.com/houkagoyuri	https://twitter.com/houkagoyuri/status/1665367331701157888		マンガ	４コマ集		houkagoyuri
 130	STUDIO524.	SAKO_DYDO	白石紬		https://twitter.com/SAKO_DYDO			イラスト			SAKO_DYDO
 131	すぷりんぐす	春瀬	エミリー・スチュアート		https://twitter.com/HARUSE_P_	https://twitter.com/Sweetie_Salt/status/1670397578561863680		マンガ？	コスモガールズのお仕事するエミしずの本とかエミしずのグッズ、美奈子と琴葉まわりの本	初サークル参加	HARUSE_P_
-132	ずぼしのにぼし	こななこ	木下ひなた	https://k0nek0na.booth.pm	https://twitter.com/k0nnk0						k0nnk0
+132	ずぼしのにぼし	こななこ	木下ひなた	https://k0nek0na.booth.pm	https://twitter.com/k0nnk0	https://twitter.com/k0nnk0/status/1674387886102433792		マンガ？	ひなたのなんらかの新刊		k0nnk0
 133	すわこのほとり	駒草	馬場このみ		https://twitter.com/komakusakk						komakusakk
 134	節分草紙	山野	徳川まつり		https://twitter.com/yam_an0	https://twitter.com/yam_an0/status/1671505574767497219		小説	オペラセリア小説本		yam_an0
 135	7th Rank Rook	ササナカ	天空橋朋花	https://www.pixiv.net/users/170555/novels	https://twitter.com/S2_SASANAKA						S2_SASANAKA
@@ -158,16 +158,16 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 155	チョルヴァルザ	ぱらた	高坂海美	http://www.pixiv.net/users/19707377	https://twitter.com/minoeokaki	https://twitter.com/minoeokaki/status/1674788391765041157		イラスト			minoeokaki
 156	つくだに屋	パル子	矢吹可奈		https://twitter.com/parusuha	https://twitter.com/parusuha/status/1673711240454230017			おまじないの話、エミリー美也　名前の話、風花　昔の話		parusuha
 157	つくものねりもの	九十九蟹	矢吹可奈		https://twitter.com/tukumokani919	https://twitter.com/tukumokani919/status/1667897331138834432			可奈志保		tukumokani919
-158	つむぎうた	こり	周防桃子	https://spinsongs.booth.pm/	https://twitter.com/spinsongs						spinsongs
+158	つむぎうた	こり	周防桃子	https://spinsongs.booth.pm/	https://twitter.com/spinsongs	https://twitter.com/spinsongs/status/1680180911575367681		イラスト	桃子×765プロアイドルのカップリングイラスト集とバースデーイラストのまとめ本		spinsongs
 159	deals 3 damage	潟野藤和	最上静香	http://www.pixiv.net/users/25869541	https://twitter.com/Marsh_Flats	https://twitter.com/Marsh_Flats/status/1678020639763083265		ルポ	静香香川ロケルポ本		Marsh_Flats
-160	てきとう真人間	旧作	望月杏奈		https://twitter.com/misorineko						misorineko
+160	てきとう真人間	旧作	望月杏奈		https://twitter.com/misorineko	https://twitter.com/misorineko/status/1674487536612425728		イラスト？、R-18	ねこ杏奈ちゃん本	初参加	misorineko
 161	Desperate blue	青山零二	最上静香	https://www.pixiv.net/users/15973703	https://twitter.com/Bluray_Blade	https://twitter.com/Bluray_Blade/status/1668599582014701568	https://twitter.com/Bluray_Blade/status/1690714637870981121		男体化女装レズ、志保静香		Bluray_Blade
 162	テリー生存ルート	テリー・ロケッティア	野々原茜		https://twitter.com/terryhumanoid	https://twitter.com/Terryhumanoid/status/1674415825472851971					terryhumanoid
 163	2 cats on the fish	ゆかか	菊地真	https://2catsonthefish.booth.pm/	https://twitter.com/yyyyk_min	https://twitter.com/yyyyk_min/status/1673351460875292674		ドール	真伊織ドール衣装写真集		yyyyk_min
 164	桃京武戯夜	タカ	箱崎星梨花	https://www.pixiv.net/users/9122	https://twitter.com/takapiyo						takapiyo
 165	峠茶屋	とせだ	佐竹美奈子		https://twitter.com/toseda						toseda
 166	トーチス・ルクマ	クマトーチ	ロコ		https://twitter.com/kuma_torch	https://twitter.com/Kuma_torch/status/1665737113264898049		マンガ、R-18	ロコの手でPがロコになっちゃう本	初参加	kuma_torch
-167	特殊文挺部隊	４年目P	最上静香								
+167	特殊文挺部隊	４年目P	最上静香		https://twitter.com/3YPX4YP		https://twitter.com/tau_writer/status/1660225536122302464	小説	Pドル合同Ⅱ		3YPX4YP
 168	ドクボウ:ゴリラ	にしゴリ	北沢志保		https://twitter.com/nishigori_e	https://twitter.com/nishigori_e/status/1678009978135932930		イラスト	フルカラーイラスト本		nishigori_e
 169	常世の東	スクナビコナ	七尾百合子		https://twitter.com/holy_bitch	https://twitter.com/holy_bitch/status/1678011310808891393		グッズ			holy_bitch
 170	どせいのわっか	ｸﾏｰｿﾆｯｸЯR	大神環	https://www.pixiv.net/users/87406478	https://twitter.com/FULLETER	https://twitter.com/FULLETER/status/1678005939805519873		イラスト？	合同誌寄稿絵まとめ本		FULLETER
@@ -198,7 +198,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 195	のんびり海獣	海豹キヨシ	馬場このみ		https://twitter.com/kaihyo_kiyoshi	https://twitter.com/Kaihyo_kiyoshi/status/1673931072558743553			このみさん人魚パロ		kaihyo_kiyoshi
 196	Burning Lily	ソエジ	所恵美	http://www.pixiv.net/users/186997	https://twitter.com/soesoesoeg	https://twitter.com/soesoesoeg/status/1673338010450919425					soesoesoeg
 197	ぱきぽぢうむ	あそか	徳川まつり	https://www.pixiv.net/users/4911	https://twitter.com/asokappa						asokappa
-198	はちみつステップ	えんどうまめ子。	徳川まつり	http://www.pixiv.net/users/51246955	https://twitter.com/Alice_mamee						Alice_mamee
+198	はちみつステップ	えんどうまめ子。	徳川まつり	http://www.pixiv.net/users/51246955	https://twitter.com/Alice_mamee		https://twitter.com/alice_mamee/status/1701588588063010999				Alice_mamee
 199	葉月文庫	葉月文乃	所恵美		https://twitter.com/hazukibunko	https://twitter.com/hazukibunko/status/1674969055852392459		イラスト	アイマス×ポケモン		hazukibunko
 200	B77 Ave.	ヨリウ	七尾百合子	https://www.pixiv.net/users/6013673	https://twitter.com/yoriu_	https://twitter.com/yoriu_/status/1674405079057854466		小説	百合子志保小説本		yoriu_
 201	ハリネズミ伝承会	ビンゴ	高山紗代子	https://www.pixiv.net/users/41353879	https://twitter.com/Pognib	https://twitter.com/Pognib/status/1678029934474985472?s=20			怪盗ハリーマウス合同		Pognib
@@ -208,11 +208,11 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 205	パンネクック	アークホーン	矢吹可奈	https://www.pixiv.net/users/7968852	https://twitter.com/Arc__horn	https://twitter.com/Arc__horn/status/1674359928365129728		イラスト	実写×アイドルちゃん		Arc__horn
 206	パンプキンファクトリー	蘭堂虎太郎	望月杏奈		https://twitter.com/lampkinP	https://twitter.com/lampkinP/status/1663904320851460096			杏奈百合子で捏造ゲーム本		lampkinP
 207	p.sたんぽぽぽ	たんぽぽぽ	周防桃子		https://twitter.com/ponpondadada	https://twitter.com/ponpondadada/status/1666069491959365632?s=20		イラスト	TIntMe!ちゃんイラスト本		ponpondadada
-208	PitFall	落ソヤ	三浦あずさ	https://www.pixiv.net/users/4283628	https://twitter.com/ochisoyaaa						ochisoyaaa
+208	PitFall	落ソヤ	三浦あずさ	https://www.pixiv.net/users/4283628	https://twitter.com/ochisoyaaa	https://twitter.com/ochisoyaaa/status/1674766249967104001			酔っぱらった大人組アイドル		ochisoyaaa
 209	ふぁんふぁんまじっく	みるろ	真壁瑞希	https://twitter.com/miruro0401	https://twitter.com/miruro0401	https://twitter.com/miruro0401/status/1674782718960496640			備忘録２と、アクスタ量産		miruro0401
-210	ブールドネージュ	夕寝	永吉昴	https://yuune0505m.booth.pm/	https://twitter.com/yuune0505m						yuune0505m
+210	ブールドネージュ	夕寝	永吉昴	https://yuune0505m.booth.pm/	https://twitter.com/yuune0505m		https://twitter.com/yuune0505m/status/1696164718744862790				yuune0505m
 211	PHASE V	森谷りり夫	高山紗代子	http://pixiv.me/ririwo_moriya	https://twitter.com/RIRIWO3456	https://twitter.com/keishiP/status/1674422427936518146			ミスセレ		RIRIWO3456
-212	不菓子屋本舗	きゅーたろー	田中琴葉	https://fantasti-q.com	https://twitter.com/9taro0011				ミリオン10年後合同		9taro0011
+212	不菓子屋本舗	きゅーたろー	田中琴葉	https://fantasti-q.com	https://twitter.com/9taro0011	https://twitter.com/9taro0011/status/1670552791520284673	https://twitter.com/9taro0011/status/1677516507545485312		ミリオン10年後合同		9taro0011
 213	ぷきぷきなまこ	えふゅる	徳川まつり		https://twitter.com/efyuru						efyuru
 214	FUMUNUKU	みかん	エミリー・スチュアート		https://twitter.com/mkn_3	https://twitter.com/mkn_3/status/1674749875748233216			エミつむ		mkn_3
 215	プラチナサイカ	篤信太一	我那覇響	https://www.pixiv.net/users/3954541	https://twitter.com/atunobu4	https://twitter.com/atunobu4/status/1673663085775560711		マンガ	初参加		atunobu4
@@ -254,9 +254,9 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 251	雪沈	ゆきし	野々原茜		https://twitter.com/yuki_si_nnhr	https://twitter.com/yuki_si_nnhr/status/1669694568756047873		R-18	成人向け野々原茜本		yuki_si_nnhr
 252	雪乃くりす。	雪乃くりす。	野々原茜	https://www.pixiv.net/users/9539718	https://twitter.com/yukinokurisu						yukinokurisu
 253	よいやみサテライト	くもつき	周防桃子	https://www.pixiv.net/users/92926774	https://twitter.com/kumotsuki35	https://twitter.com/kumotsuki35/status/1678009327393837062		イラスト	桃子メインのイラスト本	初のサークル参加	kumotsuki35
-254	ヨウガンアラシ	カザングソクムシ	徳川まつり	http://www.pixiv.net/users/11154243	https://twitter.com/warchan04	https://twitter.com/warchan04/status/1666468100995448833			現代伝奇ホラー		warchan04
+254	ヨウガンアラシ	カザングソクムシ	徳川まつり	http://www.pixiv.net/users/11154243	https://twitter.com/warchan04	https://twitter.com/warchan04/status/1666468100995448833	https://twitter.com/warchan04/status/1701274048284729626		現代伝奇ホラー		warchan04
 255	夜の書斎	夜の機動戦士	篠宮可憐	https://www.pixiv.net/users/3335862	https://twitter.com/46no_kidou1004	https://twitter.com/46no_kidou1004/status/1678015288363851777?s=20		小説、R-18	ミリオンライブ初体験R-18小説合同誌		46no_kidou1004
-256	ラクトア	ぐりぅお	水瀬伊織	https://www.pixiv.net/users/89467844	https://twitter.com/guriwowowo						guriwowowo
+256	ラクトア	ぐりぅお	水瀬伊織	https://www.pixiv.net/users/89467844	https://twitter.com/guriwowowo	https://twitter.com/guriwowowo/status/1667907569137127424		マンガ？、R-18	伊織のえっちな本		guriwowowo
 257	ラムフォー堂	ラムフォード	宮尾美也		https://twitter.com/Rumford_S						Rumford_S
 258	ランパート大帝国	茣蓙（ござ）	真壁瑞希	https://www.pixiv.net/users/5193427	https://twitter.com/Yuzuswitch_P	https://twitter.com/Yuzuswitch_P/status/1674077399892496386		イラスト	イラストまとめ＆描き下ろし本		Yuzuswitch_P
 259	ryu-minBS	流民	北沢志保	http://www.pixiv.net/users/5830088	https://twitter.com/ryu_minbs						ryu_minbs
@@ -271,7 +271,7 @@ const data = `1	Artless farm	ろまめすく	横山奈緒		https://twitter.com/b
 268	ロータスフィルム	ラインナフ	伊吹翼	https://www.melonbooks.co.jp/circle/index.php?circle_id=110168	https://twitter.com/LInenough_P	https://twitter.com/LInenough_P/status/1678019544487702528?s=20		小説	アイル組の小説本とその他オムニバス的な小説本		LInenough_P
 269	ロクデナシ工房。	kazu3	周防桃子		https://twitter.com/ura_rokudenasi	https://twitter.com/ura_rokudenasi/status/1678348830021156871	https://twitter.com/ura_rokudenasi/status/1678410704758374403	イラスト？	バースデーブック		ura_rokudenasi
 270	路地裏甘味処	北瀬唯	二階堂千鶴	http://www.pixiv.net/users/16649497	https://twitter.com/rog_crepe	https://twitter.com/rog_crepe/status/1674022688120250368		マンガ			rog_crepe
-271	ワードプロセッサー	word1111	周防桃子								
+271	ワードプロセッサー	word1111	周防桃子	https://www.pixiv.net/users/11154243				イラスト？			
 272	惑星アイネス	やいな	大神環	https://www.pixiv.net/users/2189894	https://twitter.com/Yaina85	https://twitter.com/Yaina85/status/1673651499036209152		マンガ	サイレントゆるゆるギャグ4コマ本		Yaina85
 273	忘らるる手紙	びんせん	横山奈緒		https://twitter.com/binssen	https://twitter.com/binssen/status/1678031534182522881		イラスト	湯上がり浴衣部		binssen
 274	わぴ屋	わp	高槻やよい		https://twitter.com/gyozawantan02	https://twitter.com/gyozawantan02/status/1671539536307064833		イラスト	靴下とか靴とかにフォーカスしたイラスト本		gyozawantan02
