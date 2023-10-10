@@ -390,11 +390,12 @@ function refreshHtml(){
 			<tr>
 				<td colspan="2">
 					<h2>
-						${circle.name} / ${circle.penname} @ ${circle.space}
+						${circle.name} / ${circle.penname}
 						<a href="${circle.homepage}" style="${styleDisplay(circle.homepage)}" target="_blank">🏠</a>
 						<a href="${circle.twitter}" style="${styleDisplay(circle.twitter)}" target="_blank"><img style="height: 1em;" src="icons/twitter.png"></a>
 					</h2>
 					<ul>
+						<li>スペース：${circle.space}</li>
 						<li>メインアイドル：${circle.idol}</li>
 						<li>${circle.category}　${circle.theme}　${circle.note}</li>
 					</ul>
